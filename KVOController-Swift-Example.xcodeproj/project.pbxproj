@@ -155,7 +155,6 @@
 		5CB991B41DA6AA3A003E3A0D /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				5CB991B51DA6AA3A003E3A0D /* Info.plist */,
 				5CB991B61DA6AA3A003E3A0D /* KVOController-Swift.h */,
 				5CB991B71DA6AA3A003E3A0D /* KVOController.swift */,
 			);
@@ -176,6 +175,7 @@
 		5CB991EF1DA77451003E3A0D /* KVOController-Swift */ = {
 			isa = PBXGroup;
 			children = (
+				5CB991B51DA6AA3A003E3A0D /* Info.plist */,
 				5CB991B41DA6AA3A003E3A0D /* Sources */,
 			);
 			name = "KVOController-Swift";
